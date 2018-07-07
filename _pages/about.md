@@ -18,4 +18,4 @@ social: true
 I am a Ph.D. student in the Department of Computer Science at UT Austin, advised by [Dr. Kristen Grauman](http://www.cs.utexas.edu/~grauman/). My primary research interests include 
 Computer Vision, Reinforcement Learning and their intersection. 
 
-Before joining UT Austin in 2017, I completed my integrated B.Tech and M.Tech at IIT Madras. I was jointly advised by [Dr. Anurag Mittal](http://www.cse.iitm.ac.in/~amittal/) and [Dr. Gaurav Sharma](http://www.grvsharma.com/research.html) for my M.Tech thesis. 
+Before joining UT Austin in 2017, I completed my integrated B.Tech and M.Tech in Electrical Engineering at IIT Madras. I was jointly advised by [Dr. Anurag Mittal](http://www.cse.iitm.ac.in/~amittal/) and [Dr. Gaurav Sharma](http://www.grvsharma.com/research.html) for my M.Tech thesis. 
